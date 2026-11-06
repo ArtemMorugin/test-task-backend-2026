@@ -19,3 +19,8 @@ celerybeat-schedule.db
 celery_env
 env
 .env
+.pytest_cache/
+.ruff_cache/
+
+# Local assignment copy; never publish it.
+/[Tt][Aa][Ss][Kk].[Mm][Dd]
